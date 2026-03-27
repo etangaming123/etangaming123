@@ -13,9 +13,13 @@ I mainly code in Python, as I've been learning Python since quite a while! My kn
 I also do 'code' in HTML (haha get it? because HTML is a markup language, meaning you can't necessarily 'code' with it...)
 
 ## .../Projects
-\> [Katsune](https://github.com/etangaming123/katsune), a Discord bot for Catulus' server
-\> [HVLBot](https://github.com/etangaming123/hvlbot), a Discord bot for [Hurstville Lurkers](https://hvl.etangaming.xyz/)
-\> [Unofficial maimaiDX Discord RPC](https://github.com/etangaming123/mairpc)
-\> [etanbloxxed](https://github.com/etangaming123/etanbloxxed), Discord RPC for Roblox (just get bloxstrap...)
+I made...
+[Katsune](https://github.com/etangaming123/katsune), a Discord bot for Catulus' server
+[HVLBot](https://github.com/etangaming123/hvlbot), a Discord bot for [Hurstville Lurkers](https://hvl.etangaming.xyz/)
+[Unofficial maimaiDX Discord RPC](https://github.com/etangaming123/mairpc)
+[etanbloxxed](https://github.com/etangaming123/etanbloxxed), Discord RPC for Roblox (just get bloxstrap...)
+
+And I contributed to...
+[Nothing... yet!]
 
 More projects will be added here!
