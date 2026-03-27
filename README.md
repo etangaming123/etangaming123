@@ -14,12 +14,16 @@ I also do 'code' in HTML (haha get it? because HTML is a markup language, meanin
 
 ## .../Projects
 I made...
-[Katsune](https://github.com/etangaming123/katsune), a Discord bot for Catulus' server
-[HVLBot](https://github.com/etangaming123/hvlbot), a Discord bot for [Hurstville Lurkers](https://hvl.etangaming.xyz/)
-[Unofficial maimaiDX Discord RPC](https://github.com/etangaming123/mairpc)
-[etanbloxxed](https://github.com/etangaming123/etanbloxxed), Discord RPC for Roblox (just get bloxstrap...)
+\> [Katsune](https://github.com/etangaming123/katsune), a Discord bot for Catulus' server
+
+\> [HVLBot](https://github.com/etangaming123/hvlbot), a Discord bot for [Hurstville Lurkers](https://hvl.etangaming.xyz/)
+
+\> [Unofficial maimaiDX Discord RPC](https://github.com/etangaming123/mairpc)
+
+\> [etanbloxxed](https://github.com/etangaming123/etanbloxxed), Discord RPC for Roblox (just get bloxstrap...)
 
 And I contributed to...
+
 [Nothing... yet!]
 
 More projects will be added here!
